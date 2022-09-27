@@ -249,6 +249,11 @@ body{
 .about__subtitle ,.about__text, .skills__percentage{
   color: #fff;
 }
+@media screen and (max-width:767px) {
+  .box_1, .box_2, .box_3, .box_4, .box_5, .box_6{
+    width: 700px;
+  }
+}
 /*===== HOME =====*/
 .home {
   position: relative;
