@@ -251,8 +251,8 @@ body{
 }
 @media screen and (max-width: 767px) {
   .box_1, .box_2, .box_3, .box_4, .box_5, .box_6{
-    width: 700px;
-    height: 100%;
+    width: 1000px;
+    height: 1000px;
   }
 }
 /*===== HOME =====*/
