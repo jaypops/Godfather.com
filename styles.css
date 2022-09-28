@@ -256,6 +256,13 @@ body{
    height: 500px;
    width: 800px;
   }
+  .cover_work{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0 20px;
+}
 }
 /*===== HOME =====*/
 .home {
