@@ -207,6 +207,7 @@ img {
 .cover_work{
   display: flex;
   justify-content: space-around;
+  align-items: center;
   flex-wrap: wrap;
   padding: 0 200px;
 }
@@ -234,7 +235,7 @@ img {
   padding: 2px 10px;
 }
 .ox{
-  padding: 20px;
+  padding: 5px;
 }
 /* .ad{
   background: hsl(0 0% 0% / 0.5);
@@ -252,7 +253,8 @@ body{
 }
 @media screen and (max-width: 767px) {
   .box_1, .box_2, .box_3, .box_4, .box_5, .box_6{
-    padding:50px;
+   height: 500px;
+   width: 800px;
   }
 }
 /*===== HOME =====*/
