@@ -7,9 +7,9 @@
   /*===== Colores =====*/
   /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
   /* HSL color mode */
-  --hue-color: 224;
-  --first-color: hsl(var(--hue-color), 89%, 60%);
-  --second-color: hsl(var(--hue-color), 56%, 12%);
+  --hue-color: 273;
+  --first-color: hsl(var(--hue-color), 98%, 60%);
+/*   --second-color: hsl(var(--hue-color), 56%, 12%); */
   /*===== Fuente y tipografia =====*/
   --body-font: 'Poppins', sans-serif;
   --big-font-size: 2rem;
@@ -203,6 +203,7 @@ img {
   width: 550px;
   margin-bottom: 30px;
   border-radius: 15px;
+   box-shadow: 0px 4px 25px ;
 }
 .cover_work{
   display: flex;
