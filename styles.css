@@ -181,7 +181,7 @@ img {
 }
 /* added code */
 .main__{
-  width: 100%;
+  width: 100vh;
   height: 100vh;
   background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url(back2.jpg);
   background-size: cover;
