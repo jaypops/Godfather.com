@@ -252,6 +252,33 @@ body{
 .about__subtitle ,.about__text, .skills__percentage{
   color: #fff;
 }
+.box_xx{
+  background-color: rgb(48, 42, 42);
+  width: 350px;
+  height: 250px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 25px ;
+}
+.box_x{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0 200px;
+}
+.box_xx h3{
+  color: #fff;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.box_xx i{
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  margin: 50px 0 0 0;
+}
 @media screen and (max-width: 767px) {
   .box_1, .box_2, .box_3, .box_4, .box_5, .box_6{
    height: 350px;
