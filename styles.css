@@ -291,9 +291,11 @@ body{
   flex-wrap: wrap;
   padding: 0 20px;
 }
+   .box_x{
+    padding: 20px;
+  }
   .box_xx{
-    width: 750px;
-    height: 250px;
+    width: 650px;
   }
 }
 /*===== HOME =====*/
